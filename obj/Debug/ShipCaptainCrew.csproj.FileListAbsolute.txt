@@ -1,0 +1,8 @@
+C:\Users\clayb\OneDrive\Documents\Work\Coding\ElevenFiftyProjects\135SD\ShipCaptainCrew\bin\Debug\ShipCaptainCrew.exe.config
+C:\Users\clayb\OneDrive\Documents\Work\Coding\ElevenFiftyProjects\135SD\ShipCaptainCrew\bin\Debug\ShipCaptainCrew.exe
+C:\Users\clayb\OneDrive\Documents\Work\Coding\ElevenFiftyProjects\135SD\ShipCaptainCrew\bin\Debug\ShipCaptainCrew.pdb
+C:\Users\clayb\OneDrive\Documents\Work\Coding\ElevenFiftyProjects\135SD\ShipCaptainCrew\obj\Debug\ShipCaptainCrew.csproj.AssemblyReference.cache
+C:\Users\clayb\OneDrive\Documents\Work\Coding\ElevenFiftyProjects\135SD\ShipCaptainCrew\obj\Debug\ShipCaptainCrew.csproj.SuggestedBindingRedirects.cache
+C:\Users\clayb\OneDrive\Documents\Work\Coding\ElevenFiftyProjects\135SD\ShipCaptainCrew\obj\Debug\ShipCaptainCrew.csproj.CoreCompileInputs.cache
+C:\Users\clayb\OneDrive\Documents\Work\Coding\ElevenFiftyProjects\135SD\ShipCaptainCrew\obj\Debug\ShipCaptainCrew.exe
+C:\Users\clayb\OneDrive\Documents\Work\Coding\ElevenFiftyProjects\135SD\ShipCaptainCrew\obj\Debug\ShipCaptainCrew.pdb
